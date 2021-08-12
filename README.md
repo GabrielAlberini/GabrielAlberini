@@ -1,16 +1,15 @@
-### Hi there 👋
+🤠 My name is Gabriel Alberini and I'm Argentinian.
 
-<!--
-**GabrielAlberini/GabrielAlberini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 I study Frontend Developer Web.
 
-Here are some ideas to get you started:
+💻 I'm currently working as a theater teacher.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 I also love art and the social activities. 🤓.
+
+🔭 I’m currently working on a personal page of visual works (https://cuerpo-casa.000webhostapp.com/)
+
+🌱 I’m currently learning: SCSS, Java Script and NodeJs.
+
+💬 Ask me about art, NFT, or any topic that interests you to talk! 😃.
+
+📫 How to reach me: gabialberini733@gmail.com
