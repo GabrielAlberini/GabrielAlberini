@@ -2,7 +2,7 @@
 
 📖 I study Frontend Developer Web.
 
-💻 I'm currently working as a theater teacher.
+💻 I'm currently working as a theater teacher in primary school.
 
 🔬 I also love art and the social activities. 🤓.
 
