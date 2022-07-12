@@ -1,14 +1,14 @@
 🤠 My name is Gabriel Alberini and I'm Argentinian.
 
-📖 I study Frontend Developer Web.
+📖 I'am Frontend Developer Web.
 
-💻 I'm currently working as a theater teacher in primary school.
+💻 I'm currently working as freelancer.
 
 🔬 I also love art and the social activities. 🤓.
 
-🔭 I’m currently working on a personal page of visual works (https://cuerpo-casa.000webhostapp.com/)
+🔭 My personal page and portfolio (https://gabrielalberini.com.ar/)
 
-🌱 I’m currently learning: SCSS, Java Script and NodeJs.
+🌱 I’m currently learning NodeJs.
 
 💬 Ask me about art, NFT, or any topic that interests you to talk! 😃.
 
